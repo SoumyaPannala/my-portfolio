@@ -10,6 +10,7 @@ This project uses R and three Kaggle datasets to explore global cost of living p
 
 ## Contents
 - Three Kaggle data files  
-- Quarto Markdown HTML document (includes code, analysis, and written interpretation)  
+- Quarto Markdown HTML document (includes code, analysis, and written interpretation)
+   - **To see in HTML format without needing to download the file, follow this link: **  
 - Poster presented at NCSU’s Spring 2026 DSA ShareFair  
   - Recording available on the DSA ShareFair website
