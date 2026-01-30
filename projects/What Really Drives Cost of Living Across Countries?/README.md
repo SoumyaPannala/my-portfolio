@@ -14,3 +14,7 @@ This project uses R and three Kaggle datasets to explore global cost of living p
    - **To see in HTML format without needing to download the file, follow this link:**  
 - Poster presented at NCSU’s Spring 2026 DSA ShareFair  
   - Recording available on the DSA ShareFair website
+
+## View the full interactive report (Quarto Markdown HTML document)  
+- To see a downloadable version of the HTML report, click within this project folder.
+- To view the HTML file directly in your browser, click here: [Open the HTML version](../../docs/yourfile.html)
