@@ -16,4 +16,4 @@ This project uses R and three Kaggle datasets to explore global cost of living p
 
 ## View the full interactive report (Quarto Markdown HTML document)  
 - To see a downloadable version of the HTML report, click within this project folder.
-- To view the HTML file directly in your browser, click here: [Open the HTML version](../../docs/yourfile.html)   **Link not yet updated.**
+- To view the HTML file directly in your browser, click here: [Open the HTML version](https://soumyapannala.github.io/my-portfolio/)
